@@ -1,0 +1,6 @@
+.env
+__pycache__/
+*.pyc
+user_tokens.json
+pending_verifications.json
+oauth2_adds_log.json
